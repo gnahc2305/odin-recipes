@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(170, 238, 218);
+    font-family: "Arial";
+}
+
+h1 {
+    text-align: center;
+}
+
+#link {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.description {
+    font-size: 20px;
+    font-weight: 800;
+}
